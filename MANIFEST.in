@@ -1,0 +1,2 @@
+include versioneer.py
+include src/enhanced_queue/_version.py
